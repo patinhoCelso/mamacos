@@ -21,7 +21,7 @@ function redimensionaLayout() {
         coracaoPulsando(["200px", "203px"], ["190px", "193px"]);
     }
     else {
-        coracaoPulsando(["300px", "310px"], ["250px", "260px"]);
+        coracaoPulsando(["300px", "305px"], ["250px", "255px"]);
     }
 }
 
