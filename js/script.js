@@ -18,7 +18,7 @@ setInterval(() => {
 //funcao para mudar o layout de acordo com a largura da tela
 function redimensionaLayout() {
     if (window.innerWidth <= 767) {
-        coracaoPulsando(["230px", "240px"], ["253px", "263px"]);
+        coracaoPulsando(["200px", "210px"], ["220px", "230px"]);
     }
     else {
         coracaoPulsando(["300px", "310px"], ["250px", "260px"]);
